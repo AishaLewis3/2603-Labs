@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment1.params=l\ b
+comment1.target=Rectangle(int,\ int)
+comment2.params=
+comment2.target=void\ calculateArea()
+comment2.text=\r\n\ In\ Java,\ the\ override\ keyword\ is\ used\ in\ a\ subclass\ to\ provide\ a\ specific\ implementation\ of\ a\ method\ that\ is\ already\ \r\n\ defined\ in\ it\ s\ superclass.\ By\ overriding\ a\ method,\ the\ subclass\ can\ alter\ or\ extend\ the\ behavior\ of\ the\ inherited\ method\r\n\ to\ suit\ its\ specific\ needs.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
